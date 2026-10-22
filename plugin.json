@@ -1,0 +1,12 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "ai-tools",
+  "version": "1.0.0",
+  "description": "Reusable skills for GitHub Copilot.",
+  "author": {
+    "name": "Nicolas Saleron"
+  },
+  "repository": "https://github.com/nicolassaleron/ai-tools",
+  "license": "MIT",
+  "keywords": ["github-copilot", "skills"]
+}
